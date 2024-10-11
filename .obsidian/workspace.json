@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "7b0779d87c22328d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0238d733aea8f26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c58fa429d7a310f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Daily, Weakly Notes, Tasks/Weekly Notes_/2024-W41.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b46d1e6edce09844",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8654c3f18d83b08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd118c3c68b0dbc5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c60c490983e86dd9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "37aded7ae4c58bbb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7c72279def228b66",
+    "type": "split",
+    "children": [
+      {
+        "id": "eedd7ecd75645bb9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1882847e76851601",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/Daily, Weakly Notes, Tasks/Weekly Notes_/2024-W41.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "59e97c0aaffcb694",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes/Daily, Weakly Notes, Tasks/Weekly Notes_/2024-W41.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a0840bd02dffdb8a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "edb1bceeb3235a0b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes/Daily, Weakly Notes, Tasks/Weekly Notes_/2024-W41.md"
+              }
+            }
+          },
+          {
+            "id": "271b7c0ef70b4e85",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 305.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "0c58fa429d7a310f",
+  "lastOpenFiles": [
+    "Notes/Daily, Weakly Notes, Tasks/Дневник.md",
+    "Notes/Daily, Weakly Notes, Tasks/Weekly Notes_/2024-W41.md",
+    "photo_2024-10-11_19-35-02.jpg",
+    "photo_2024-10-11_19-35-03.jpg",
+    "photo_2024-10-11_19-35-04.jpg",
+    "Notes/cmd.md",
+    "Notes/Pictures/Pasted image 20241009152800.png",
+    "Notes/Pictures/Pasted image 20241009152942.png",
+    "Без названия.canvas",
+    "Notes/Daily, Weakly Notes, Tasks/Задачи.md",
+    "Notes/Templates/Weekly note.md",
+    "Notes/Templates/Dayily note.md",
+    "Notes/English language/План по изучению на 4 месяца до нового года.md",
+    "Notes/Daily, Weakly Notes, Tasks/Fast.md",
+    "Notes/Daily, Weakly Notes, Tasks/Daily notes/11-10-24.md",
+    "Notes/Pictures/Inf 4th. U19 Sectrity and Cybercrimes.pdf",
+    "ы.md",
+    "Notes/Daily, Weakly Notes, Tasks/Weekly notes.md",
+    "Notes/Daily, Weakly Notes, Tasks/Weekly Notes_",
+    "Notes/Daily, Weakly Notes, Tasks/Daily notes/27-09-24.md",
+    "Notes/Daily, Weakly Notes, Tasks/Daily notes/15-09-24.md",
+    "Notes/Daily, Weakly Notes, Tasks/Daily notes/14-09-24.md",
+    "Notes/Daily, Weakly Notes, Tasks/Daily notes/13-09-24.md",
+    "Notes/STANKIN/Tasks/History.md",
+    "Notes/STANKIN/Tasks/English.md",
+    "Notes/STANKIN/Tasks/Электротехника.md",
+    "Notes/STANKIN/Tasks/Прикладное программирование.md",
+    "Notes/STANKIN/Tasks/Дифуры.md",
+    "Notes/STANKIN/Tasks/Алгоритмы и структуры данных.md",
+    "Notes/English language/Фразы, слова и т.д/Phrases in English you need every day..md",
+    "Notes/English language/Фразы, слова и т.д/Just phrase.md",
+    "Notes/English language/Фразы, слова и т.д/Фразовые глаголы.md",
+    "Notes/English language/Фразы, слова и т.д/Разговорные фразы.md",
+    "Notes/Pictures/Pasted image 20240918143640.png",
+    "Notes/Daily Notes, Tasks/To-do notes",
+    "Notes/Daily Notes, Tasks",
+    "Notes/Daily, Weakly Notes, Tasks/General Tasks"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "showGettingStartedBanner": true,
+  "hasMigratedDailyNoteSettings": false,
+  "hasMigratedWeeklyNoteSettings": false,
+  "daily": {
+    "format": "DD-MM-YY",
+    "template": "Notes/Templates/Dayily note.md",
+    "folder": "Notes/Daily, Weakly Notes, Tasks/Daily notes",
+    "enabled": true
+  },
+  "weekly": {
+    "format": "",
+    "template": "Notes/Templates/Weekly note.md",
+    "folder": "Notes/Daily, Weakly Notes, Tasks/Weekly Notes_",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  },
+  "quarterly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  },
+  "yearly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  }
+}
