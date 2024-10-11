@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Daily, Weakly Notes, Tasks/Weekly Notes_/2024-W41.md",
+                "file": "Notes/Period_notes/Weekly Notes_/2024-W41.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Daily, Weakly Notes, Tasks/Weekly Notes_/2024-W41.md",
+                "file": "Notes/Period_notes/Weekly Notes_/2024-W41.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Daily, Weakly Notes, Tasks/Weekly Notes_/2024-W41.md",
+                "file": "Notes/Period_notes/Weekly Notes_/2024-W41.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Daily, Weakly Notes, Tasks/Weekly Notes_/2024-W41.md"
+                "file": "Notes/Period_notes/Weekly Notes_/2024-W41.md"
               }
             }
           },
@@ -155,10 +155,34 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0c58fa429d7a310f",
+  "active": "bd118c3c68b0dbc5",
   "lastOpenFiles": [
-    "Notes/Daily, Weakly Notes, Tasks/Дневник.md",
     "Notes/Daily, Weakly Notes, Tasks/Weekly Notes_/2024-W41.md",
+    "Notes/Daily, Weakly Notes, Tasks/Daily notes/27-09-24.md",
+    "Notes/Daily, Weakly Notes, Tasks/Daily notes/23-09-24.md",
+    "Notes/Daily, Weakly Notes, Tasks/Daily notes/26-09-24.md",
+    "Notes/Daily, Weakly Notes, Tasks/Daily notes/21-09-24.md",
+    "Notes/Daily, Weakly Notes, Tasks/Daily notes/20-09-24.md",
+    "Notes/Daily, Weakly Notes, Tasks/Daily notes/19-09-24.md",
+    "Notes/Daily, Weakly Notes, Tasks/Daily notes/16-09-24.md",
+    "Notes/Daily, Weakly Notes, Tasks/Daily notes/18-09-24.md",
+    "Notes/Daily, Weakly Notes, Tasks/Daily notes/17-09-24.md",
+    "Notes/Daily, Weakly Notes, Tasks/Daily notes/15-09-24.md",
+    "Notes/Daily, Weakly Notes, Tasks/Daily notes/14-09-24.md",
+    "Notes/Daily, Weakly Notes, Tasks/Daily notes/11-10-24.md",
+    "Notes/Daily, Weakly Notes, Tasks/Daily notes/13-09-24.md",
+    "Notes/Daily, Weakly Notes, Tasks/Дневник.md",
+    "Notes/Daily, Weakly Notes, Tasks/Weekly Notes_",
+    "Notes/Daily, Weakly Notes, Tasks/Задачи.md",
+    "Notes/Daily, Weakly Notes, Tasks/Fast.md",
+    "Notes/Daily, Weakly Notes, Tasks/Daily notes",
+    "Notes/Daily, Weakly Notes, Tasks",
+    "Notes/Period_notes/Daily notes/15-09-24.md",
+    "Notes/Period_notes/Daily notes/14-09-24.md",
+    "Notes/Period_notes/Daily notes/13-09-24.md",
+    "Notes/Period_notes/Daily notes/11-10-24.md",
+    "Notes/Period_notes/Weekly Notes_/2024-W41.md",
+    "Notes/Period_notes/Дневник.md",
     "photo_2024-10-11_19-35-02.jpg",
     "photo_2024-10-11_19-35-03.jpg",
     "photo_2024-10-11_19-35-04.jpg",
@@ -166,30 +190,10 @@
     "Notes/Pictures/Pasted image 20241009152800.png",
     "Notes/Pictures/Pasted image 20241009152942.png",
     "Без названия.canvas",
-    "Notes/Daily, Weakly Notes, Tasks/Задачи.md",
+    "Notes/Period_notes/Задачи.md",
     "Notes/Templates/Weekly note.md",
-    "Notes/Templates/Dayily note.md",
-    "Notes/English language/План по изучению на 4 месяца до нового года.md",
-    "Notes/Daily, Weakly Notes, Tasks/Fast.md",
-    "Notes/Daily, Weakly Notes, Tasks/Daily notes/11-10-24.md",
     "Notes/Pictures/Inf 4th. U19 Sectrity and Cybercrimes.pdf",
-    "ы.md",
-    "Notes/Daily, Weakly Notes, Tasks/Weekly notes.md",
-    "Notes/Daily, Weakly Notes, Tasks/Weekly Notes_",
-    "Notes/Daily, Weakly Notes, Tasks/Daily notes/27-09-24.md",
-    "Notes/Daily, Weakly Notes, Tasks/Daily notes/15-09-24.md",
-    "Notes/Daily, Weakly Notes, Tasks/Daily notes/14-09-24.md",
-    "Notes/Daily, Weakly Notes, Tasks/Daily notes/13-09-24.md",
-    "Notes/STANKIN/Tasks/History.md",
-    "Notes/STANKIN/Tasks/English.md",
-    "Notes/STANKIN/Tasks/Электротехника.md",
-    "Notes/STANKIN/Tasks/Прикладное программирование.md",
-    "Notes/STANKIN/Tasks/Дифуры.md",
-    "Notes/STANKIN/Tasks/Алгоритмы и структуры данных.md",
-    "Notes/English language/Фразы, слова и т.д/Phrases in English you need every day..md",
-    "Notes/English language/Фразы, слова и т.д/Just phrase.md",
-    "Notes/English language/Фразы, слова и т.д/Фразовые глаголы.md",
-    "Notes/English language/Фразы, слова и т.д/Разговорные фразы.md",
+    "Notes/Period_notes/Weekly Notes_",
     "Notes/Pictures/Pasted image 20240918143640.png",
     "Notes/Daily Notes, Tasks/To-do notes",
     "Notes/Daily Notes, Tasks",
