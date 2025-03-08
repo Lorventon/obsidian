@@ -4,19 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "b0238d733aea8f26",
+        "id": "4ae5b5b3b4c1241b",
         "type": "tabs",
         "children": [
           {
-            "id": "0c58fa429d7a310f",
+            "id": "e9405dbfdd4cd527",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Daily, Weakly Notes, Tasks/Weekly Notes_/2024-W42.md",
+                "file": "C++ разработка/СТЕК.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "СТЕК"
+            }
+          },
+          {
+            "id": "aefaeee89238ba0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++ разработка/Статьи/Полиморфизм.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Полиморфизм"
+            }
+          },
+          {
+            "id": "8b44251696d7743b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-03-08 20.21.26.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-03-08 20.21.26.excalidraw"
             }
           }
         ]
@@ -38,8 +66,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -54,7 +85,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
             }
           },
           {
@@ -62,7 +95,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
             }
           }
         ]
@@ -85,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Daily, Weakly Notes, Tasks/Weekly Notes_/2024-W42.md",
+                "file": "Notes/Templates/Weekly note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +128,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Weekly note"
             }
           },
           {
@@ -102,10 +139,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Daily, Weakly Notes, Tasks/Weekly Notes_/2024-W42.md",
+                "file": "Notes/Templates/Weekly note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Weekly note"
             }
           },
           {
@@ -116,7 +155,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
             }
           },
           {
@@ -125,8 +166,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Daily, Weakly Notes, Tasks/Weekly Notes_/2024-W42.md"
-              }
+                "file": "Notes/Templates/Weekly note.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура Weekly note"
             }
           },
           {
@@ -134,7 +177,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ],
@@ -142,7 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -152,51 +197,58 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "0c58fa429d7a310f",
+  "active": "e9405dbfdd4cd527",
   "lastOpenFiles": [
-    "Notes/Period_notes/Weekly Notes_/2024-W41.md",
-    "Notes/Daily, Weakly Notes, Tasks/Weekly Notes_/2024-W42.md",
-    "Notes/Period_notes/Задачи.md",
-    "Notes/Period_notes/Дневник.md",
-    "Notes/Period_notes/Daily notes/27-09-24.md",
-    "Notes/Period_notes/Fast.md",
-    "Notes/Daily, Weakly Notes, Tasks/Weekly Notes_/2024-W41.md",
-    "Notes/Daily, Weakly Notes, Tasks/Daily notes/27-09-24.md",
-    "Notes/Daily, Weakly Notes, Tasks/Daily notes/23-09-24.md",
-    "Notes/Daily, Weakly Notes, Tasks/Daily notes/26-09-24.md",
-    "Notes/Daily, Weakly Notes, Tasks/Daily notes/21-09-24.md",
-    "Notes/Daily, Weakly Notes, Tasks/Daily notes/20-09-24.md",
-    "Notes/Daily, Weakly Notes, Tasks/Daily notes/19-09-24.md",
-    "Notes/Daily, Weakly Notes, Tasks/Daily notes/16-09-24.md",
-    "Notes/Daily, Weakly Notes, Tasks/Daily notes/18-09-24.md",
-    "Notes/Daily, Weakly Notes, Tasks/Daily notes/17-09-24.md",
-    "Notes/Daily, Weakly Notes, Tasks/Daily notes/15-09-24.md",
-    "Notes/Daily, Weakly Notes, Tasks/Daily notes/14-09-24.md",
-    "Notes/Daily, Weakly Notes, Tasks/Daily notes/11-10-24.md",
-    "Notes/Daily, Weakly Notes, Tasks/Daily notes/13-09-24.md",
-    "Notes/Daily, Weakly Notes, Tasks/Дневник.md",
-    "Notes/Daily, Weakly Notes, Tasks/Weekly Notes_",
-    "Notes/Daily, Weakly Notes, Tasks/Задачи.md",
-    "Notes/Daily, Weakly Notes, Tasks/Fast.md",
-    "Notes/Daily, Weakly Notes, Tasks/Daily notes",
-    "Notes/Daily, Weakly Notes, Tasks",
-    "Notes/Period_notes/Daily notes/15-09-24.md",
-    "Notes/Period_notes/Daily notes/14-09-24.md",
-    "Notes/Period_notes/Daily notes/13-09-24.md",
-    "photo_2024-10-11_19-35-02.jpg",
-    "photo_2024-10-11_19-35-03.jpg",
-    "photo_2024-10-11_19-35-04.jpg",
-    "Notes/Pictures/Pasted image 20241009152800.png",
-    "Notes/Pictures/Pasted image 20241009152942.png",
+    "C++ разработка/Материал/ОП C++.md",
+    "C++ разработка/СТЕК.md",
+    "C++ разработка/Материал/dotcpp.md",
+    "Excalidraw/Drawing 2025-03-08 20.21.26.excalidraw.md",
+    "C++ разработка/Статьи/Полиморфизм.md",
+    "C++ разработка/Материал/doth.md",
+    "ClassicBicycle/Work Plan/03.01.25, fast notes.md",
     "Без названия.canvas",
-    "Notes/Pictures/Inf 4th. U19 Sectrity and Cybercrimes.pdf",
-    "Notes/Period_notes/Weekly Notes_",
-    "Notes/Pictures/Pasted image 20240918143640.png",
-    "Notes/Daily Notes, Tasks/To-do notes",
-    "Notes/Daily Notes, Tasks",
-    "Notes/Daily, Weakly Notes, Tasks/General Tasks"
+    "Yandex/Templates in C++.md",
+    "Notes/English language/Фразы, слова и т.д/Vocabular from MSTU.md",
+    "TestingSystem/DB.md",
+    "C++ разработка/Статьи",
+    "TestingSystem/Задний background.md",
+    "C++ разработка/Материал/Fact notes.md",
+    "Notes/~$ория_ОП (2).odt",
+    "Yandex/Шаблонная функция.png",
+    "Yandex/Шутка про гномика.md",
+    "C++ разработка/Материал/Map. What cpp developer need to know.md",
+    "Yandex/!Заметка 4!.md",
+    "Yandex/!Заметка 3!.md",
+    "Yandex/!Заметка 5!.md",
+    "Yandex/!Заметка 2!.md",
+    "Yandex/!Заметка 1!.md",
+    "Yandex/!Заметка 6!.md",
+    "Yandex",
+    "Notes/Daily, Weakly Notes, Tasks/Weekly Notes_/2025-W08.md",
+    "Notes/English language/Фразы, слова и т.д/Phrases in English you need every day..md",
+    "Notes/English language/Фразы, слова и т.д/Фразовые глаголы.md",
+    "Notes/English language/Фразы, слова и т.д/Just phrase.md",
+    "Notes/English language/Фразы, слова и т.д/Разговорные фразы.md",
+    "Notes/Daily, Weakly Notes, Tasks/Weekly Notes_/2025-W07.md",
+    "Pasted image 20250112164609.png",
+    "C++ разработка/Книги",
+    "C++ разработка/Материал",
+    "Excalidraw",
+    "Прикладная прога",
+    "C++ разработка/Константин Владимиров",
+    "C++ разработка/Константин Владимиров/Базовый Курс C",
+    "C++ разработка/Базовый Курс C++/Без названия",
+    "Notes/Pictures/Pasted image 20241222004519.png",
+    "Notes/Pictures/Pasted image 20241222030638.png",
+    "Notes/Pictures/Pasted image 20241222030554.png",
+    "Notes/Pictures/Pasted image 20240906182851.png",
+    "Notes/Pictures/Pasted image 20240906182748.png",
+    "Notes/Pictures/Pasted image 20241201065020.png",
+    "Notes/Pictures/Pasted image 20241119035956.png",
+    "Notes/Pictures/Pasted image 20241119025748.png"
   ]
 }

@@ -2,5 +2,7 @@
   "calendar",
   "periodic-notes",
   "obsidian-tasks-plugin",
-  "colored-text"
+  "colored-text",
+  "editing-toolbar",
+  "obsidian-excalidraw-plugin"
 ]

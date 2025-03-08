@@ -1,86 +1,81 @@
-# <span style="color:rgb(32, 245, 12)"><b>Unordered tasks</b></span>
-- ***University tasks***
-	- to do
-- ***C++ development, programming, English language***,
-	- to do
-- ***Other / life-tasks***
-	- to do
+# <font color="#b8cce4">What do I want to do</font>
+- In-depth study of the language C++ and its features. Multithreading and asynchrony
+- Solving algorithms problems (using C++)
+- Computer Graphics
+- <font color="#ffc000">QT project Testing System</font>
+- Linux OS
+- Cmake
+- Computer architecture
+# <span style="color:rgb(200, 240, 50)"><b>Monday</b></span>
+### <span style="color:rgb(70, 200, 240)"> <b> Tasks
+</b></span> 
 - 
-
-# <span style="color:rgb(219, 15, 138)"><b>Monday</b></span>
-## <span style="color:rgb(18, 219, 98)"> <b>Self-development tasks</b></span>
-- [ ] to do
-## <span style="color:rgb(18, 219, 98)"> <b>General tasks</b></span>
-- [ ] to do
-## <span style="color:rgb(18, 219, 98)"> <b>University tasks</b></span>
-- [ ] to do
-## <span style="color:rgb(18, 219, 98)"> <b>Other
+### <span style="color:rgb(200, 180, 77)"> <b> Events
 </b></span>
-- [ ] to do
-
-# <span style="color:rgb(219, 15, 138)"><b>Tuesday
+- 
+### <span style="color:rgb(232, 200, 124)"> <b> Notes
 </b></span>
-## <span style="color:rgb(18, 219, 98)"> <b>Self-development tasks</b></span>
-- [ ] to do
-## <span style="color:rgb(18, 219, 98)"> <b>General tasks</b></span>
-- [ ] to do
-## <span style="color:rgb(18, 219, 98)"> <b>University tasks</b></span>
-- [ ] to do
-## <span style="color:rgb(18, 219, 98)"> <b>Other
+- 
+# <span style="color:rgb(200, 240, 50)"><b>Tuesday</b></span>
+### <span style="color:rgb(70, 200, 240)"> <b> Tasks
+</b></span> 
+- 
+### <span style="color:rgb(200, 180, 77)"> <b> Events
 </b></span>
-- [ ] to do
-# <span style="color:rgb(219, 15, 138)"><b>Wednesday
+- 
+### <span style="color:rgb(232, 200, 124)"> <b> Notes
 </b></span>
-## <span style="color:rgb(18, 219, 98)"> <b>Self-development tasks</b></span>
-- [ ] to do
-## <span style="color:rgb(18, 219, 98)"> <b>General tasks</b></span>
-- [ ] to do
-## <span style="color:rgb(18, 219, 98)"> <b>University tasks</b></span>
-- [ ] to do
-## <span style="color:rgb(18, 219, 98)"> <b>Other
+- 
+# <span style="color:rgb(200, 240, 50)"><b>Wednesday  </b></span>
+### <span style="color:rgb(70, 200, 240)"> <b> Tasks
+</b></span> 
+- 
+### <span style="color:rgb(200, 180, 77)"> <b> Events
 </b></span>
-- [ ] to do
-# <span style="color:rgb(219, 15, 138)"><b>Thursday
+- 
+### <span style="color:rgb(232, 200, 124)"> <b> Notes
 </b></span>
-## <span style="color:rgb(18, 219, 98)"> <b>Self-development tasks</b></span>
-- [ ] to do
-## <span style="color:rgb(18, 219, 98)"> <b>General tasks</b></span>
-- [ ] to do
-## <span style="color:rgb(18, 219, 98)"> <b>University tasks</b></span>
-- [ ] to do
-## <span style="color:rgb(18, 219, 98)"> <b>Other
+- 
+# <span style="color:rgb(200, 240, 50)"><b>Thursday </b></span> 
+### <span style="color:rgb(70, 200, 240)"> <b> Tasks
+</b></span> 
+- 
+### <span style="color:rgb(200, 180, 77)"> <b> Events
 </b></span>
-- [ ] to do
-# <span style="color:rgb(219, 15, 138)"><b>Friday
+- 
+### <span style="color:rgb(232, 200, 124)"> <b> Notes
 </b></span>
-## <span style="color:rgb(18, 219, 98)"> <b>Self-development tasks</b></span>
-- [ ] to do
-## <span style="color:rgb(18, 219, 98)"> <b>General tasks</b></span>
-- [ ] to do
-## <span style="color:rgb(18, 219, 98)"> <b>University tasks</b></span>
-- [ ] to do
-## <span style="color:rgb(18, 219, 98)"> <b>Other
+- 
+# <span style="color:rgb(200, 240, 50)"><b>Friday
 </b></span>
-- [ ] to do
+### <span style="color:rgb(70, 200, 240)"> <b> Tasks
+</b></span> 
+- 
+### <span style="color:rgb(200, 180, 77)"> <b> Events
+</b></span>
+- 
+### <span style="color:rgb(232, 200, 124)"> <b> Notes
+</b></span>
+- 
 # <span style="color:rgb(235, 129, 9)"><b>Saturday
 </b></span>
-## <span style="color:rgb(18, 219, 98)"> <b>Self-development tasks</b></span>
-- [ ] to do
-## <span style="color:rgb(18, 219, 98)"> <b>General tasks</b></span>
-- [ ] to do
-## <span style="color:rgb(18, 219, 98)"> <b>University tasks</b></span>
-- [ ] to do
-## <span style="color:rgb(18, 219, 98)"> <b>Other
+### <span style="color:rgb(70, 200, 240)"> <b> Tasks
+</b></span> 
+- 
+### <span style="color:rgb(200, 180, 77)"> <b> Events
 </b></span>
-- [ ] to do
-# <span style="color:rgb(235, 129, 9)"><b>Sunday
+- 
+### <span style="color:rgb(232, 200, 124)"> <b> Notes
 </b></span>
-## <span style="color:rgb(18, 219, 98)"> <b>Self-development tasks</b></span>
-- [ ] to do
-## <span style="color:rgb(18, 219, 98)"> <b>General tasks</b></span>
-- [ ] to do
-## <span style="color:rgb(18, 219, 98)"> <b>University tasks</b></span>
-- [ ] to do
-## <span style="color:rgb(18, 219, 98)"> <b>Other
+- 
+# <span style="color:rgb(235, 129, 9)"><b>Sunday 
 </b></span>
-- [ ] to do
+### <span style="color:rgb(70, 200, 240)"> <b> Tasks
+</b></span> 
+- 
+### <span style="color:rgb(200, 180, 77)"> <b> Events
+</b></span>
+- 
+### <span style="color:rgb(232, 200, 124)"> <b> Notes
+</b></span>
+- 
